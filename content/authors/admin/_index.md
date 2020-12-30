@@ -6,12 +6,11 @@ title: LI, Yujie
 superuser: true
 
 # Role/position/tagline
-role: M.Sc. in Big Data Technology
+role: postgraduate student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: HKUST
-  url: https://www.hkust.edu.hk/
+- name: HKUST, HKSAR
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computational social science, media bias and political polarization.
@@ -25,8 +24,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Postgraduate Student
-    institution: HKUST, HKSAR
+  - course: M.Sc. in Big Data Technology
+    institution: HKUST
     year: 2021
   - course: B.Eng. in Intelligence Science and Technology
     institution: Sun Yat-sen University
