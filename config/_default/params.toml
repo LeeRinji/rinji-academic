@@ -203,25 +203,25 @@ plugins_js  = []
 ############################
 ## Comments
 ############################
-[comments]
+# [comments]
   # Comment provider:
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 0
+#  engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+#  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
 
   # Configuration of Disqus.
-  [comments.disqus]
-    shortname = ""  # Paste the shortname from your Disqus dashboard.
-    show_count = true  # Show comment count in page header? (true/false)
+#  [comments.disqus]
+#    shortname = ""  # Paste the shortname from your Disqus dashboard.
+#    show_count = true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
-  [comments.commento]
+#  [comments.commento]
     # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
-    url = ""
+#    url = ""
 
 ############################
 ## Search
@@ -244,7 +244,7 @@ plugins_js  = []
 ############################
 ## Maps
 ############################
-[map]
+# [map]
   # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
   # and choose a map provider below.
   #
@@ -259,9 +259,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
-  api_key = ""
-  zoom = 15
+#  engine = 2
+#  api_key = ""
+#  zoom = 15
 
 ############################
 ## Marketing
