@@ -72,5 +72,3 @@ highlight_name: false
 I am currently taking the Big Data Technology M.Sc. program in HKUST. My research interests are focused on computational social science, media bias and political polarization. 
 
 Now, I am seeking for M.Phil. or Ph.D. position in social science field.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/LI,Yujie_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
