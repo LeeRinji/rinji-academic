@@ -73,4 +73,4 @@ I am currently taking the Big Data Technology M.Sc. program in HKUST. My researc
 
 Now, I am seeking for M.Phil. or Ph.D. position in social science field.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/LI,Yujie_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/LI,Yujie_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
