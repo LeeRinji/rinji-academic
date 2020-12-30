@@ -28,9 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Social Science Related
-    tag: SSR
+    tag: Social Science Related 
   - name: Data Science Related
-    tag: DSR
+    tag: Data Science Related
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
