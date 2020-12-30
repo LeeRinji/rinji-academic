@@ -18,7 +18,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "https://github.com/LeeRinji/rinji-academic/blob/master/content/project/example/media_slant.pdf"
+url_pdf: "https://leerj.com/media/media_slant.pdf"
 url_slides: ""
 url_video: ""
 
