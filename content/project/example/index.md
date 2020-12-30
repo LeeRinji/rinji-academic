@@ -12,13 +12,13 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-# links:
+links:
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/LeeRinji/rinji-academic/blob/master/content/project/example/media_slant.pdf"
 url_slides: ""
 url_video: ""
 
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides= "content/project/exmaple/media_slant.pdf"
+# slides= "content/project/exmaple/media_slant.pdf"
 ---
 
 In this study, we used natural language processing technology to analyze the changes in Hong Kong media’s stance of their coverage on CCP over the past two decades.
