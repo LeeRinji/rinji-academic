@@ -6,7 +6,7 @@ title: LI, Yujie
 superuser: true
 
 # Role/position/tagline
-role: MSc in Big Data Technology
+role: M.Sc. in Big Data Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,7 +28,7 @@ education:
   - course: M.Sc. in Big Data Technology
     institution: HKUST
     year: 2021
-  - course: B.Eng in Intelligence Science and Technology
+  - course: B.Eng. in Intelligence Science and Technology
     institution: Sun Yat-sen University
     year: 2020
   - course: Minor in Politics and Administration
@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/LI,Yujie_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,4 +72,4 @@ highlight_name: false
 
 LI, Yujie is currently taking the Big Data Technology M.Sc. program in HKUST. His research interests include computational social science, media bias and political polarization. He is seeking M.Phil. or Ph.D. position in social science field.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/LI,Yujie_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
