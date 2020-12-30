@@ -25,8 +25,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: M.Sc. in Big Data Technology
-    institution: HKUST
+  - course: Postgraduate Student
+    institution: HKUST, HKSAR
     year: 2021
   - course: B.Eng. in Intelligence Science and Technology
     institution: Sun Yat-sen University
@@ -70,6 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-LI, Yujie is currently taking the Big Data Technology M.Sc. program in HKUST. His research interests include computational social science, media bias and political polarization. He is seeking M.Phil. or Ph.D. position in social science field.
+I am currently taking the Big Data Technology M.Sc. program in HKUST. My research interests are focused on computational social science, media bias and political polarization. 
+
+Now, I am seeking for M.Phil. or Ph.D. position in social science field.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/LI,Yujie_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
