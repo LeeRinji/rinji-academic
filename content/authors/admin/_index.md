@@ -13,21 +13,23 @@ organizations:
 - name: HKUST, HKSAR
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational social science, media bias and political polarization.
+bio: My research interests include computational social science, social networks.
 
 # Interests to show in About widget
 interests:
 - Computational Social Science
-- Media Bias
-- Political Polarization
+- Social Networks
 
 # Education to show in About widget
 education:
   courses:
-  - course: M.Sc. in Big Data Technology
+  - course: PhD in Sociology
+    institution: CUHK
+    year: 2025(Expected)
+  - course: MSc in Big Data Technology
     institution: HKUST
     year: 2021
-  - course: B.Eng. in Intelligence Science and Technology
+  - course: BEng in Intelligence Science and Technology
     institution: Sun Yat-sen University
     year: 2020
   - course: Minor in Politics and Administration
@@ -69,6 +71,4 @@ email: ""
 highlight_name: false
 ---
 
-I am currently taking the Big Data Technology M.Sc. program in HKUST. My research interests are focused on computational social science, media bias and political polarization. 
-
-Now, I am seeking for M.Phil. or Ph.D. position in social science field.
+I am currently taking the Big Data Technology M.Sc. program in HKUST, and I will get into the Sociology PhD program in 2021 fall. My research interests are focused on computational social science and social networks. 
